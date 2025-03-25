@@ -1,4 +1,4 @@
-# 🚨 Hướng Dẫn Escalate Lên CBRE Khi PM và đội ngũ CSKH Dự Án The Vista An Phú Không Hoàn Thành Công Việc  
+# 🚨 Hướng Dẫn Escalate Lên CBRE Khi PM và các đội ngũ Dự Án The Vista An Phú Không Hoàn Thành Công Việc  
 
 ## 📌 Khi Nào Cần Escalate?  
 Nếu bạn nhận thấy **Project Manager (PM) , Đội Ngũ CSKH , Kỹ thuật của CBRE** không hoàn thành tốt công việc, thiếu trách nhiệm, hoặc có dấu hiệu vi phạm quy định, cư dân có thể thực hiện
@@ -14,6 +14,9 @@ Một số dấu hiệu như
 2/ Các vấn đề tồn đọng lâu không được trả lời và ngó lơ
 3/ Thông tin bị yêu cầu hỏi đi hỏi lại nhiều lần 
 4/ Đã yêu cầu làm việc trên email nhưng không tiếp tục gọi điện, không trả lời, trả lời qua chat
+5/ Không hoàn thành công việc nhưng báo cáo đã hoàn thành
+6/ Yêu cầu cư dân ký giầy đã hoàn thành, đánh giá tôt nhưng giải quyết vần đề sơ sài
+7/ Liên tục trả lời đã xem xét và đang giải quyềt nhưng các vấn đề vẫn bị tồn đọng và lặp đi lặp lại
 
 
 ## 🛠 Các Bước Escalate  
