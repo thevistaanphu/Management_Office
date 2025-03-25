@@ -70,7 +70,7 @@ Trân trọng,
 ```
 
 ### 4️⃣ Theo Dõi Phản Hồi  
-- Nếu **sau 5-7 ngày làm việc** không có phản hồi, tiếp tục gửi email nhắc nhở.  
+- Nếu **sau 1 - 2 tiếng với các trường hợp khẩn cấp, hoặc sau 3-5 ngày làm việc với các trường hợp có thể đợi** không có phản hồi, tiếp tục gửi email nhắc nhở.  
 - Nếu CBRE vẫn không giải quyết, có thể **công khai vấn đề trên nhóm cư dân** hoặc liên hệ **cơ quan chức năng có thẩm quyền** để can thiệp.  
 
 ---
