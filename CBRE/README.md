@@ -31,11 +31,11 @@ Trước khi gửi email escalate, cần chuẩn bị:
 
 📩** Gửi email đến Ban Quản Trị như sau:**
 - **email BQT The Vista** - bqt.thevistaanphu@gmail.com
-- ** Ông Trần Xuân Phương - trưởng ban quản trị ** - tranxuanphuongc45@gmail.com
-- ** Ông Hiển Ban Quản Trị nhiệm kì 2023 - 2026** : hien.nguyen@rhdhv.com
-- ** Ông Triển Ban Quản Trị nhiệm kỳ 2023- 2026** : 2trien@gmail.com
-- ** Ông Lawrence Ban Quản Trị nhiệm kỳ 2023 - 2026 ** : lawrence.mbanu1975@gmail.com
--  ** Bác Thịnh trưởng khu phố ** với những trường hợp ảnh hưởng đến an ninh và quy định chung cần can thiệp của Phường **- thinhphamngoc1960@gmail.com
+- **Ông Trần Xuân Phương - trưởng ban quản trị ** - tranxuanphuongc45@gmail.com
+- **Ông Hiển Ban Quản Trị nhiệm kì 2023 - 2026** : hien.nguyen@rhdhv.com
+- **Ông Triển Ban Quản Trị nhiệm kỳ 2023- 2026** : 2trien@gmail.com
+- **Ông Lawrence Ban Quản Trị nhiệm kỳ 2023 - 2026 ** : lawrence.mbanu1975@gmail.com
+- **Bác Thịnh trưởng khu phố ** với những trường hợp ảnh hưởng đến an ninh và quy định chung cần can thiệp của Phường **- thinhphamngoc1960@gmail.com
 
 
 📩 **cc email đến các cấp quản lý CBRE sau:**  
