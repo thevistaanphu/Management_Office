@@ -28,7 +28,17 @@ Trước khi gửi email escalate, cần chuẩn bị:
 - **Các bước đã thực hiện trước đó**: Đã phản ánh với PM chưa? Có phản hồi không?  
 
 ### 2️⃣ Gửi Email Escalate  
-📩 **Gửi email đến các cấp quản lý sau:**  
+
+📩** Gửi email đến Ban Quản Trị như sau:**
+- **email BQT The Vista** - bqt.thevistaanphu@gmail.com
+- ** Ông Trần Xuân Phương - trưởng ban quản trị ** - tranxuanphuongc45@gmail.com
+- ** Ông Hiển Ban Quản Trị nhiệm kì 2023 - 2026** : hien.nguyen@rhdhv.com
+- ** Ông Triển Ban Quản Trị nhiệm kỳ 2023- 2026** : 2trien@gmail.com
+- ** Ông Lawrence Ban Quản Trị nhiệm kỳ 2023 - 2026 ** : lawrence.mbanu1975@gmail.com
+-  ** Bác Thịnh trưởng khu phố ** với những trường hợp ảnh hưởng đến an ninh và quy định chung cần can thiệp của Phường **- thinhphamngoc1960@gmail.com
+
+
+📩 **cc email đến các cấp quản lý CBRE sau:**  
 
 - **CBRE-PM-CS@cbre.com** – Phản hồi về PM  
 - **Ngoc.Chu@cbre.com** – Quản lý PM ở HCM  
@@ -38,9 +48,7 @@ Trước khi gửi email escalate, cần chuẩn bị:
 - **pauline.goh@cbre.com.sg**  - Giám đốc vùng
 - https://secure.ethicspoint.com/domain/media/en/gui/7298/index.html - đưa bằng chứng các dấu hiệu tham ô, không minh bạch, biển thủ tài sản
 
-** Gửi email đến Ban Quản Trị như sau:**
-- **email BQT The Vista** - bqt.thevistaanphu@gmail.com
-- ** Ông Trần Xuân Phương - trưởng ban quản trị ** - tranxuanphuong45@gmail.com
+
 
 **📌 Tiêu đề email đề xuất:**  
 `[Escalation] PM Dự Án Không Hoàn Thành Công Việc - [Tên Dự Án]`  
