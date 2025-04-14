@@ -12,7 +12,7 @@ https://github.com/thevistaanphu/Management_Office/tree/main/CBRE/ki%E1%BB%83m%2
 Báo cáo tài chính 2023 và kế hoạch 2024 
 https://github.com/thevistaanphu/BQT2023-2026/tree/main/HNCC2024
 
-## Cư dân yêu cầu minh bạch thông tn
+## Cư dân yêu cầu minh bạch thông tin
 
 https://github.com/thevistaanphu/BQT2023-2026/tree/main/Y%C3%8AU_C%E1%BA%A6U_MINH_B%E1%BA%A0CH_TH%C3%94NG_TIN
 
